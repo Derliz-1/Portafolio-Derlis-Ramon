@@ -17,7 +17,7 @@ Este es mi sitio web personal desarrollado para mostrar mis habilidades como des
 ## Uso
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/nombre_del_repositorio.git
+   git clone https://github.com/Derliz-1/Portafolio-Derlis-Ramon.git
 Instala las dependencias:bash
 npm install
 Inicia el servidor:bash
